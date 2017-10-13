@@ -2,10 +2,23 @@ section span {
 	font-size: .9em !important;
 }
 
+.hello {
+	background-color: #191917 !important;
+}
 
-body,
-.js {
-	background-color: #EBD74D !important;
+.hello .backSymb {
+	margin: 0;
+	padding: 0;
+	font-size: 300px;
+	color: #303030 !important;
+}
+
+.hello h4, .hello h2 {
+	color: white !important;
+}
+
+.qr p {
+	font-size: 30px !important;
 }
 
 p.center {
