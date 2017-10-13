@@ -1,0 +1,13 @@
+{
+  "name": "functional-programming-js-slides",
+  "version": "1.0.0",
+  "description": "This is my slides for NodeSchool talk about Functional Programming in JavaScript.",
+  "homepage": "https://github.com/jestersunborn/functional-programming-js-slides",
+  "main": "js/reveal.js",
+  "author": "Serhiy Boreyko",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jestersunborn/functional-programming-js-slides"
+  },
+  "license": "MIT"
+}

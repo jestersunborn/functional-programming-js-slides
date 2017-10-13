@@ -1,2 +1,2 @@
-# functional-programming-js-slides
-Slides for my talk at NodeSchool about functional programming in JavaScript
+#  Functional Programming in JavaScript.
+This is my slides for NodeSchool talk about Functional Programming in JavaScript.
