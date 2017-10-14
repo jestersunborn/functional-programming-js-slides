@@ -17,7 +17,8 @@ section span {
 	color: white !important;
 }
 
-.qr p {
+.qr a {
+	display: block;
 	font-size: 30px !important;
 }
 
@@ -27,6 +28,46 @@ p.center {
 
 p.big {
 	font-size: 1.5em;
+}
+
+.quote p {
+	padding-right: 150px;
+	text-align: right;
+	font-size: 25px;
+}
+
+.quote h4 {
+	margin: 0 auto;
+	width: 70%;
+	font-weight: 400;
+	position: relative;
+}
+
+.quote h4:after,
+.quote h4:before {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	font-size: 150px;
+}
+
+.quote h4:before {
+	right: 100%;
+	content: '«';
+}
+
+.quote h4:after {
+	left: 100%;
+	content: '»';
+}
+
+.chaos span {
+	display: inline-block;
+	margin: 50px;
+}
+
+.chaos span:nth-child(2n) {
+	color: #808080;
 }
 
 img.small {
